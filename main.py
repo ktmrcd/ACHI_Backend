@@ -46,7 +46,7 @@ def open_frame4():
     print(sentence)
     label_symp.configure(text = sentence)
 
-#FARME 5
+#FRAME 5
 def open_frame5():
     frame4.forget()
     frame5.pack(fill = 'both', expand = 1)
